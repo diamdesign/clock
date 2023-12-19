@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Around the clock
 **En webbApp för att träna och lära sig klockan.**
 
@@ -24,3 +25,6 @@ Gränssnittet hittar ni även i bifogad figma-fil samt [här](https://www.figma.
 - Generera klockan med en *canvas* istället.
 
 - När du går in på appen ska den visa aktuell tid ( alltså vad klockan är just då).
+=======
+# clock
+>>>>>>> 8a8aa9d06e92db4263051a689050288211ca86de
